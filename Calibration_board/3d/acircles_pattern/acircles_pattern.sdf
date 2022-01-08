@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<sdf version="1.6">
+<model name="acircles_pattern">
+  <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://acircles_pattern/meshes/acircles_pattern.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>
